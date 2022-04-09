@@ -1,0 +1,1 @@
+ALTER TABLE `feedback_response` DROP PRIMARY KEY, ADD PRIMARY KEY( `record_id`, `timestamp`);

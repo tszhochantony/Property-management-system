@@ -1,0 +1,1 @@
+ALTER TABLE `feedback_response` ADD `percentage` INT(3) NOT NULL AFTER `response`;

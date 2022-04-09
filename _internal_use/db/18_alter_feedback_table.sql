@@ -1,0 +1,1 @@
+ALTER TABLE `feedback` ADD `feedback_photo` VARCHAR(255) NULL AFTER `record_details`;
